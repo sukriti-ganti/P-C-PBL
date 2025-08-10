@@ -22,7 +22,7 @@ This project aims to develop such a system using affordable microcontroller hard
 * Optional: Expansion to STM32 for advanced processing & connectivity
 
 ## Block Diagram
-*(Insert schematic or block diagram here — e.g., Sensors → MCU → Alerts & UART → PC)*
+*(Insert schematic or block diagram here — e.g., Sensors → MCU → Alerts & UART → PC)* 
 
 ## List of Materials
 | Component           | Quantity | Role                                   |
