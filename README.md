@@ -33,7 +33,7 @@ This project aims to develop such a system using affordable microcontroller hard
 | Temperature Sensor  | 1        | Monitors ambient temperature           |
 | ADC0808             | 1        | Analog-to-digital conversion           |
 | LED + Buzzer        | 1 each   | Visual and audible alerts              |
-| Resistors, Wires    | -        | Circuit connections                    |
+| Resistors, Wires    | needed   | Circuit connections                    |
 | Power Supply (5V)   | 1        | Powers MCU and peripherals             |
 
 ## Tools & Technologies
