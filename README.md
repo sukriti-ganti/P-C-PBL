@@ -9,7 +9,7 @@ This project aims to develop such a system using affordable microcontroller hard
 
 ## Objectives
 1. Interface and control **MQ2 gas sensor**, vibration sensor, and optional temperature sensor using the 8051 MCU.
-2. Implement **real-time alerts** via buzzer/LED when sensor thresholds are exceeded.
+2. Implement **Real-Time-Alerts** via Buzzer/LED when sensor thresholds are exceeded.
 3. Transmit sensor data to a PC via **UART serial communication**.
 4. Demonstrate **interrupt-based** event handling for fall detection.
 5. Simulate and verify the design using **MCU8051 IDE/KEIL** and **Proteus**.
